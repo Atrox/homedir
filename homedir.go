@@ -1,3 +1,4 @@
+// Package homedir helps with detecting and expanding the user's home directory
 package homedir
 
 import (
